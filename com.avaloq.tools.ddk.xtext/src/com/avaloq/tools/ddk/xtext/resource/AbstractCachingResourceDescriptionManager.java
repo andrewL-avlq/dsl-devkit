@@ -198,6 +198,7 @@ public abstract class AbstractCachingResourceDescriptionManager extends DerivedS
 
   /**
    * Bulk method to return all resources (managed by this manager) which are affected by the given set of deltas.
+   * Temp change to test access.
    *
    * @param deltas
    *          deltas
